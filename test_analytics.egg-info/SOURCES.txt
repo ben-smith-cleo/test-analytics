@@ -1,0 +1,9 @@
+setup.py
+test_analytics/__init__.py
+test_analytics/bayesian_analysis.py
+test_analytics/test_functions.py
+test_analytics.egg-info/PKG-INFO
+test_analytics.egg-info/SOURCES.txt
+test_analytics.egg-info/dependency_links.txt
+test_analytics.egg-info/requires.txt
+test_analytics.egg-info/top_level.txt
