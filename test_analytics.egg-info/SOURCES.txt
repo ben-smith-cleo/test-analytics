@@ -7,3 +7,4 @@ test_analytics.egg-info/SOURCES.txt
 test_analytics.egg-info/dependency_links.txt
 test_analytics.egg-info/requires.txt
 test_analytics.egg-info/top_level.txt
+test_analytics/queries/test_query.sql
